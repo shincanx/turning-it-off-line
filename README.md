@@ -1,7 +1,8 @@
 # Have You Tried Turning It Off?
 
-[![make.fun bounty](https://img.shields.io/badge/make.fun-bounty-blue)](https://make.fun/bounty/u-motasimfuad-have-you-tried-turning-it-off-154a938b)
-[![entry](https://img.shields.io/badge/entry-one--liner-green)](https://github.com/shincanx/turning-it-off-line)
+[![make.fun · u-motasimfuad-have-you-tried-turning-it-off-154a938b](https://make.fun/badge/u-motasimfuad-have-you-tried-turning-it-off-154a938b.svg)](https://make.fun/bounty/u-motasimfuad-have-you-tried-turning-it-off-154a938b?utm_source=github&utm_medium=readme&utm_campaign=u-motasimfuad-have-you-tried-turning-it-off-154a938b)
+[![rank](https://make.fun/badge/u-motasimfuad-have-you-tried-turning-it-off-154a938b/shincanx/turning-it-off-line/rank.svg)](https://make.fun/bounty/u-motasimfuad-have-you-tried-turning-it-off-154a938b/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-motasimfuad-have-you-tried-turning-it-off-154a938b)
+[![reward](https://make.fun/badge/u-motasimfuad-have-you-tried-turning-it-off-154a938b/shincanx/turning-it-off-line/reward.svg)](https://make.fun/bounty/u-motasimfuad-have-you-tried-turning-it-off-154a938b?utm_source=github&utm_medium=readme&utm_campaign=u-motasimfuad-have-you-tried-turning-it-off-154a938b)
 
 A make.fun bounty entry: one funny line, under 200 characters, that a
 hopeless tech support agent says to a desperate customer.
